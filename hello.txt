@@ -6,9 +6,7 @@ change in github 12:17 12:24
 
 change in local 12.17 16:16
 
-
 change in local 12.17 16:24
-
 
 change in local for develop feature1 v0.2
 
@@ -20,9 +18,12 @@ change in local 12.17 16:24 for release -v5.0
 
 change in local for develop feature1 v0.3
 
-
 change in local for develop feature1 v0.3.1
 
 change in local for develop feature1 v0.3.2
 
 change in local for develop feature2 v0.1
+
+change in local 12.17 16:42 for hotfix v4.9.1
+
+change in local 12.17 16:24 for release -v5.0
