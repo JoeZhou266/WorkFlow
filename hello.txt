@@ -27,3 +27,5 @@ change in local for develop feature2 v0.1
 change in local 12.17 16:42 for hotfix v4.9.1
 
 change in local 12.17 16:24 for release -v5.0
+
+change in local 12.19 11:10 for release -v5.0.1
